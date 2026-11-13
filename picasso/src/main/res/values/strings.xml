@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Picasso</string>
+    <string name="local_images">Local images (assets, no network)</string>
+    <string name="broken_urls">Broken URLs (shows the error image)</string>
+    <string name="clear_cache">Clear cache</string>
+    <string name="cache_cleared">Memory and disk cache cleared</string>
+    <string name="loading">Loading the list of photos…</string>
+    <string name="images_count">Photos: %1$d</string>
+</resources>
