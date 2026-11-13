@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GraphQL</string>
+    <string name="send">Send</string>
+    <string name="server_countries">Countries server</string>
+    <string name="query_hint">GraphQL query</string>
+</resources>
