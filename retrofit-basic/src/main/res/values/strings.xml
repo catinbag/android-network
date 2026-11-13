@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Retrofit basic</string>
+    <string name="screen_breeds">Breeds</string>
+    <string name="screen_posts">Posts</string>
+    <string name="screen_mistakes">Mistakes</string>
+    <string name="load_breeds">Load breeds</string>
+    <string name="load_hound_images">Load hound images</string>
+    <string name="create_post">Create</string>
+    <string name="get_created">Get created</string>
+    <string name="delete_post">Delete</string>
+    <string name="run">Run</string>
+    <string name="fix_it">Fix it</string>
+    <string name="output_hint">The result is also in Logcat.</string>
+</resources>
